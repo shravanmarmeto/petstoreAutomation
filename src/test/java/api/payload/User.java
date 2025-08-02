@@ -1,7 +1,7 @@
 package api.payload;
 
 public class User {
-//payload  
+//payload  //POJO
 	int id;
 	String username;
 	String firstname;

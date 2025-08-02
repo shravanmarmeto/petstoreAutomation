@@ -15,7 +15,7 @@ import io.restassured.response.Response;
 public class userTest {
 //First we will set the values
 	Faker f;
-	// creat object of User pojo class
+	// creat object of User POJO class
 	User payLoad;
 
 	public Logger logger;

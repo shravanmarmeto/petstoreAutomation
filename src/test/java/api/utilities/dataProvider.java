@@ -30,7 +30,7 @@ public class dataProvider {
 		String apidata[] = new String[rownum];
 		for (int i = 1; i <= rownum; i++) {
 
-			apidata[i - 1] = xl.getCellData("Sheet1", i, 1);
+			apidata[i - 1] = xl.getCellData("Sheet1", i, 1); //j=1 because username is in 2nd column
 
 		}
 		return apidata;

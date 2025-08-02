@@ -9,7 +9,6 @@
       <class name="api.test.userTest2">
         <methods>
           <include name="deleteUser"/>
-          <include name="updatedUser"/>
           <include name="setupData"/>
         </methods>
       </class> <!-- api.test.userTest2 -->

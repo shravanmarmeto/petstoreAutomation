@@ -19,7 +19,7 @@ public class extentReportManager implements ITestListener {
 	public ExtentReports er;
 	public ExtentTest test;
 	String repName;
-
+//listener implementation 
 	public void onStart(ITestContext context) {
 
 		String timestamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());

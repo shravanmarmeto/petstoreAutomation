@@ -67,5 +67,5 @@ public class xlUtility {
 		fi.close();
 		return data;
 	}
-	//there are other methods, check out 20th vieo, Timestamp: 30
+	//there are other methods, check out 20th video, Timestamp: 30
 }
